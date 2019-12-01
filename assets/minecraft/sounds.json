@@ -1,0 +1,12 @@
+{
+    "luna.test": {
+        "sounds": [
+            "test"
+        ]
+    },
+    "entity.player.death": {
+        "sounds": [
+            "player/deathh"
+        ]
+    }
+}
